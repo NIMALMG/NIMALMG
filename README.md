@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Fullstack 
-- 📫 How to reach me nimalmg@gmail.com
+- 📫 How to reach me nimalmgaiml@gmail.com
 - 😄 Pronouns: MG
 - ⚡ Fun fact: Nothing
 
